@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O2 CMakeFiles/mokshith_test.dir/simple_test.cpp.o -o mokshith_test  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 
